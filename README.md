@@ -872,7 +872,7 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 - Unsupervised domain adaptation for facial expression recognition using generative adversarial networks [[Computational intelligence and neuroscience 2018]](https://www.hindawi.com/journals/cin/2018/7208794/)
 - Cross-domain facial expression recognition: A unified evaluation benchmark and adversarial graph learning [[IEEE TPAMI 2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9628054)
 - Unsupervised facial expression recognition using domain adaptation based dictionary learning approach [[Neurocomputing 2018]](https://www.sciencedirect.com/science/article/pii/S0925231218308294?casa_token=ggwVNIz2OuMAAAAA:tZ3Xr8gNacfmjn9YRC2vshdOxYKnnycW0zArlU7BZvBHXemFD8gICTAIdyHW5VBnANrhnBizC_8)
-- Exprada: Adversarial domain adaptation for facial expression analysis [[Pattern Recognition 2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9628054)
+- Exprada: Adversarial domain adaptation for facial expression analysis [[Pattern Recognition 2020]](https://www.sciencedirect.com/science/article/pii/S0031320319304121?casa_token=AZo_UbXAdw8AAAAA:lSKlHn3BNQtpYhhooaIAiG9ExWW0B1mIFUMK4KHQVw10fo7vwQD1ngRA-8XqwPGY21J7VG7xd5Q)
 
 **ArXiv**
 - Pose-aware Adversarial Domain Adaptation for Personalized Facial Expression Recognition [[arXiv 12 July 2020]](https://arxiv.org/abs/2007.05932)
