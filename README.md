@@ -58,6 +58,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
     - [3D Reconstruction](#3d-reconstruction)
     - [Fine-Grained Domain](#fine-grained-domain)
     - [LiDAR](#lidar)
+    - [Facial Expression Recognition](#facial-expression-recognition)
     - [Others](#others-1)
   - [Related Topics](#related-topics)
     - [Image-to-Image Translation](#image-to-image-translation)
@@ -862,6 +863,19 @@ segmentation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/
 ### LiDAR
 **ArXiv**
 - ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation [[13 Mar 2022]](https://arxiv.org/abs/2111.15242)
+
+### Facial Expression Recognition
+**Conference**
+- Deep Emotion Transfer Network for Cross-database Facial Expression Recognition [[ICPR Aug 2018]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8545284)
+
+**Journal**
+- Unsupervised domain adaptation for facial expression recognition using generative adversarial networks [[Computational intelligence and neuroscience 2018]](https://www.hindawi.com/journals/cin/2018/7208794/)
+- Cross-domain facial expression recognition: A unified evaluation benchmark and adversarial graph learning [[IEEE TPAMI 2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9628054)
+- Unsupervised facial expression recognition using domain adaptation based dictionary learning approach [[Neurocomputing 2018]](https://www.sciencedirect.com/science/article/pii/S0925231218308294?casa_token=ggwVNIz2OuMAAAAA:tZ3Xr8gNacfmjn9YRC2vshdOxYKnnycW0zArlU7BZvBHXemFD8gICTAIdyHW5VBnANrhnBizC_8)
+- Exprada: Adversarial domain adaptation for facial expression analysis [[Pattern Recognition 2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9628054)
+
+**ArXiv**
+- Pose-aware Adversarial Domain Adaptation for Personalized Facial Expression Recognition [[arXiv 12 July 2020]](https://arxiv.org/abs/2007.05932)
 
 
 ### Others
